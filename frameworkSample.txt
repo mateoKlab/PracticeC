@@ -5,7 +5,7 @@ function A {
     print “Hello Matt”;
 }
 
-function Hi {
+function print_txt {
     print "Hi!";
 }
 
