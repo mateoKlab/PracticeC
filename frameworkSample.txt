@@ -5,3 +5,7 @@ function A {
     print “Hello Matt”;
 }
 
+function Hi {
+    print "Hi!";
+}
+
